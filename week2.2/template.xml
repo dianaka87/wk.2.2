@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<learningObject editorVersion="3" targetFolder="Nottingham" name="Learning Object Title" language="en-GB" navigation="Linear" textSize="12" theme="default" displayMode="fill window" responsive="true"><imageViewer linkID="PG1610994206959" name="Enter Page Title" align="Left" url="FileLocation + 'media/untitled_folder/91AAD620-0267-495B-85F4-ECAC08F21FD3.JPG'" tip="Enter a Description for Accessibility" moveTip="Move" zoomInTip="Zoom In" zoomOutTip="Zoom Out" selectAreaTip="Select Area" resetImageTip="Reset Image" toggleScreenTip="Toggle Full Screen"><![CDATA[Enter text for the page here]]></imageViewer><text linkID="PG1610994167748" name="Hello World"><![CDATA[<p>Hello World</p>
+]]></text></learningObject>
